@@ -29,4 +29,4 @@
 <div> <img loading="lazy" height="180em" &layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizbic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Luizbic)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luizbic&theme=radical&no-frame=true&no-bg=true&title=Stars,Commit,Followers)](https://github.com/ryo-ma/github-profile-trophy)
